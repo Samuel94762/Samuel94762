@@ -22,7 +22,8 @@
 class Samuel:
     role      = "Full-Stack Developer"
     based_in  = "Santa Cruz de la Sierra, Bolivia 🇧🇴"
-    backend   = ["FastAPI", "SQLModel", "SQLAlchemy", "PostgreSQL"]
+    backend   = ["FastAPI", "Node.js", "PHP", "C# / .NET", "PostgreSQL"]
+    also      = ["C++", "Power Platform"]
     frontend  = ["React", "TypeScript", "Tailwind"]
     learning  = "Ingeniería de Software"
     off_mode  = ["BJJ 🥋", "gym 🏋️"]
@@ -34,11 +35,13 @@ class Samuel:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,php,cs,dotnet,cpp&theme=dark" />
 <br/>
 <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,html,css&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,vscode,github,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,linux,vscode,github,postman,figma&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logoColor=white" />
 
 </div>
 
